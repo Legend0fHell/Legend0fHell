@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my GitHub page. I'm currently a high school student, majoring in Competitive Programming.
+
+Have a good day 🤟
+
+<p align="center">
+<img src="https://github.com/Legend0fHell/githubstats/blob/master/generated/overview.svg">
+<img src="https://github.com/Legend0fHell/githubstats/blob/master/generated/languages.svg">
+</p>
 <!--
 **Legend0fHell/Legend0fHell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
