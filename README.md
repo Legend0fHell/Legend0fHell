@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Welcome to my GitHub page. I'm currently a high school student, majoring in Competitive Programming.
+Welcome to my GitHub page. I'm currently an university student, majoring in Artificial Intelligence.
+I also do Competitive Programming, making (award-winning) projects, and random hobby stuff.
 
 Have a good day 🤟
 
