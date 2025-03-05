@@ -8,8 +8,8 @@ I also do Competitive Programming, making (award-winning) projects, and random h
 Have a good day 🤟
 
 <p align="center">
-<img src="https://github.com/Legend0fHell/githubstats/blob/master/generated/overview.svg">
-<img src="https://github.com/Legend0fHell/githubstats/blob/master/generated/languages.svg">
+<img src="https://github.com/Legend0fHell/ghstats/blob/master/generated/overview.svg">
+<img src="https://github.com/Legend0fHell/ghstats/blob/master/generated/languages.svg">
 </p>
 <!--
 **Legend0fHell/Legend0fHell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
